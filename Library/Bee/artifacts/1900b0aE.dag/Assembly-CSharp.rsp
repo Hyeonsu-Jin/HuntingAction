@@ -353,7 +353,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/1. Scripts/PlayerController.cs"
+"Assets/1. Scripts/0. Player/PlayerController.cs"
+"Assets/1. Scripts/0. Player/ShieldController.cs"
+"Assets/1. Scripts/1. Weapon/Weapon.cs"
+"Assets/1. Scripts/2. Item/HpPotion.cs"
+"Assets/1. Scripts/2. Item/Item.cs"
 -langversion:9.0
 
 /deterministic
